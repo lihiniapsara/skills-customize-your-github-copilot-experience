@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "claude-sonnet-python-exercise",
+      "title": "Claude Sonnet Python Exercise",
+      "description": "Learn clean code practices including refactoring, type hints, and error handling",
+      "path": "assignments/claude-sonnet-python-exercise",
+      "dueDate": "2026-02-09",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }

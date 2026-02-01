@@ -1,8 +1,9 @@
 ---
 agent: agent
-description: Create a new programming homework assignment that matches the project structure
-argument-hint: Provide assignment details
+description: Create a new programming homework assignment in Claude Sonnet style
+argument-hint: Provide assignment topic
 ---
+
 
 # Create New Programming Assignment
 
