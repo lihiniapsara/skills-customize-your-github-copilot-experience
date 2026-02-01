@@ -1,6 +1,6 @@
----
+
 applyTo: "assignments/**/*.md"
----
+
 
 # Assignment Markdown Structure Guidelines
 
